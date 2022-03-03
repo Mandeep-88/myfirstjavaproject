@@ -3,6 +3,8 @@ package com.company;
 public class Twodimarray {
     public static void main(String[] args) {
         {
+
+            System.out.println();
             System.out.println("vivek code");
 
             int arr[][] = new int[][]

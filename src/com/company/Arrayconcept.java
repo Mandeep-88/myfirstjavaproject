@@ -7,11 +7,10 @@ public class Arrayconcept {
         System.out.println("the sum of all the 10 decimalm values");
         for (double j = 0; j < arr.length; j++) {
 
-            s = s + arr[(int)j];
-            System.out.println(arr[(int)j]);
+            s = s + arr[(int) j];
+            System.out.println(arr[(int) j]);
         }
-
-
+    }
 
 
 
@@ -37,6 +36,6 @@ public class Arrayconcept {
 //        obj[3]='F';
 //        System.out.println(obj[3]);
 
-        }
+
 
 
