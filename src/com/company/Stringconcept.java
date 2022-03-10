@@ -15,17 +15,6 @@ public class Stringconcept {
         }
 String reverse= new String(reverseArr);
         System.out.println(reverseArr);
-
-
-
-
-
-
-
-
-
-
-
         //System.out.println(Arrays.toString(chars));
 //        for(int i=0;i<chars.length;i++){
 //            System.out.println(chars[i]);
